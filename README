@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=91
+
+NSIS stands for 'NullSoft Installation System' and is a handy free scriptable installation system made by NullSoft ( the 
+guys who made Winamp). For more information on this, see http://www.nullsoft.com/free/nsis/
+This syntax is very straight forward as the syntax of the scripting language is simple. 
+
+If you use NSIS, please give it a try and tell me what you think as this is the first I actually write and vim syntax file.
+Thanks,
